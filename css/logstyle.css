@@ -1,0 +1,34 @@
+
+body {
+    background-color: #343a40;
+    color: #343a40;
+    padding-top: 5%;
+    font-family:'Arial Narrow', Arial, sans-serif;
+}
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 20px;
+}
+.form-control {
+    background-color: #f8f9fa;
+    color: #343a40; 
+    border: 1px solid #ced4da; 
+}
+.form-control:focus {
+    background-color: #ffffff; 
+    color: #343a40;
+    border: 1px solid #80bdff;
+    box-shadow: none;
+}
+.btn-primary {
+    background-color: #343a40; 
+    border-color: #343a40; 
+}
+.btn-primary:hover {
+    background-color: #23272b; 
+    border-color: #23272b; 
+}
